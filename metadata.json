@@ -1,0 +1,5 @@
+{
+  "name": "ERP Rental Motor",
+  "description": "A comprehensive ERP system for managing motorcycle rental businesses in Indonesia. This application helps manage fleet, rentals, maintenance, and provides real-time financial reporting.",
+  "requestFramePermissions": []
+}
